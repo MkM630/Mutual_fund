@@ -25,8 +25,8 @@ This is a full-stack application designed to help users track mutual funds. It f
 <img width="946" alt="image" src="https://github.com/user-attachments/assets/1781fa3b-13a8-4f68-b11b-42fa076f118c" />
 
 ### Database:
-<img width="947" alt="image" src="https://github.com/user-attachments/assets/cdf56914-d4ad-4de5-bd4f-1d38efb8dbe0" />
 
+<img width="797" alt="image" src="https://github.com/user-attachments/assets/61fcad51-0530-459a-ae86-147efdc00e77" />
 
 
 
