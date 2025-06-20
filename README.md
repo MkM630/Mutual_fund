@@ -9,7 +9,25 @@ This is a full-stack application designed to help users track mutual funds. It f
 - Save and track favorite mutual funds
 - Detailed view of individual mutual funds
 
-## Technologies Used
+## Screenshots :
+
+### Home page
+<img width="954" alt="image" src="https://github.com/user-attachments/assets/c7c63d57-6b1e-4f55-9d01-64e6c70d224e" />
+### Login and register page :
+<img width="958" alt="image" src="https://github.com/user-attachments/assets/93d73d49-896e-44e3-84bf-64683143c1dd" />
+
+### Seach result
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/94f00719-a7dd-4dd3-936d-e49c5fe80bbb" />
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/fcbfdb9e-20fc-4c81-a664-ecb89ab8ce04" />
+
+### Save Funds
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/1781fa3b-13a8-4f68-b11b-42fa076f118c" />
+
+### Database:
+<img width="947" alt="image" src="https://github.com/user-attachments/assets/cdf56914-d4ad-4de5-bd4f-1d38efb8dbe0" />
+
+
+
 
 ### Frontend (Client)
 
