@@ -13,7 +13,7 @@ This is a full-stack application designed to help users track mutual funds. It f
 
 ### Home page
 <img width="954" alt="image" src="https://github.com/user-attachments/assets/c7c63d57-6b1e-4f55-9d01-64e6c70d224e" />
-### Login page :
+### Login page 
 <img width="958" alt="image" src="https://github.com/user-attachments/assets/93d73d49-896e-44e3-84bf-64683143c1dd" />
 
 ### Seach result
