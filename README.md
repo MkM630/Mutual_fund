@@ -2,7 +2,7 @@
 
 This is a full-stack application designed to help users track mutual funds. It features a React-based frontend and a Node.js/Express backend with MongoDB for data storage.
 
-## Features
+## Features 
 
 - User authentication (signup, login)
 - View a list of mutual funds
